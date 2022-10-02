@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Recreation_centres" id="Recreation_centres">
+	<SimpleField name="OBJECTID" type="int"></SimpleField>
+	<SimpleField name="Address" type="string"></SimpleField>
+	<SimpleField name="Address2" type="string"></SimpleField>
+	<SimpleField name="Suburb" type="string"></SimpleField>
+	<SimpleField name="Postcode" type="int"></SimpleField>
+	<SimpleField name="PhoneNumber" type="string"></SimpleField>
+	<SimpleField name="URL" type="string"></SimpleField>
+	<SimpleField name="OpeningHours" type="string"></SimpleField>
+	<SimpleField name="Lat" type="float"></SimpleField>
+	<SimpleField name="Long" type="float"></SimpleField>
+</Schema>
+<Folder><name>Recreation_centres</name>
+  <Placemark>
+	<name>Redfern Community Centre</name>
+	<ExtendedData><SchemaData schemaUrl="#Recreation_centres">
+		<SimpleData name="OBJECTID">1</SimpleData>
+		<SimpleData name="Address">29-53 Hugo Street</SimpleData>
+		<SimpleData name="Address2"></SimpleData>
+		<SimpleData name="Suburb">Redfern</SimpleData>
+		<SimpleData name="Postcode">2016</SimpleData>
+		<SimpleData name="PhoneNumber">02 9288 5713</SimpleData>
+		<SimpleData name="URL">https://www.cityofsydney.nsw.gov.au/community-centres/redfern-community-centre</SimpleData>
+		<SimpleData name="OpeningHours">Monday to Friday 9am to 5pm, Weekends Available for bookings.</SimpleData>
+		<SimpleData name="Lat">-33.8903169365705</SimpleData>
+		<SimpleData name="Long">151.198409720645</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.198409720645,-33.8903169365705</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pyrmont Community Centre</name>
+	<ExtendedData><SchemaData schemaUrl="#Recreation_centres">
+		<SimpleData name="OBJECTID">2</SimpleData>
+		<SimpleData name="Address">79a John Street</SimpleData>
+		<SimpleData name="Address2">Corner of John and Mount Streets</SimpleData>
+		<SimpleData name="Suburb">Pyrmont</SimpleData>
+		<SimpleData name="Postcode">2009</SimpleData>
+		<SimpleData name="PhoneNumber">02 9298 3134 or 02 9298 3130</SimpleData>
+		<SimpleData name="URL">https://www.cityofsydney.nsw.gov.au/community-centres/pyrmont-community-centre</SimpleData>
+		<SimpleData name="OpeningHours">Monday 9am to 9pm, Tuesday to Thursday 6.30am to 9pm, Friday 9am to 6pm, Saturday and Sunday 10am to 4pm.</SimpleData>
+		<SimpleData name="Lat">-33.8679718036201</SimpleData>
+		<SimpleData name="Long">151.192282767682</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.192282767682,-33.8679718036201</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ultimo Community Centre</name>
+	<ExtendedData><SchemaData schemaUrl="#Recreation_centres">
+		<SimpleData name="OBJECTID">3</SimpleData>
+		<SimpleData name="Address">38-40 William Henry Street</SimpleData>
+		<SimpleData name="Address2"></SimpleData>
+		<SimpleData name="Suburb">Ultimo</SimpleData>
+		<SimpleData name="Postcode">2007</SimpleData>
+		<SimpleData name="PhoneNumber">02 9298 3111</SimpleData>
+		<SimpleData name="URL">https://www.cityofsydney.nsw.gov.au/community-centres/ultimo-community-centre</SimpleData>
+		<SimpleData name="OpeningHours">Monday to Friday 10am to 8pm, Saturday amd Sunday 10am to 4pm, Closed Public Holidays</SimpleData>
+		<SimpleData name="Lat">-33.877821984351</SimpleData>
+		<SimpleData name="Long">151.19802602897</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.19802602897,-33.877821984351</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>King George V Recreation Centre</name>
+	<ExtendedData><SchemaData schemaUrl="#Recreation_centres">
+		<SimpleData name="OBJECTID">4</SimpleData>
+		<SimpleData name="Address">15 Cumberland Street</SimpleData>
+		<SimpleData name="Address2"></SimpleData>
+		<SimpleData name="Suburb">The Rocks</SimpleData>
+		<SimpleData name="Postcode">2000</SimpleData>
+		<SimpleData name="PhoneNumber">02 9244 3600</SimpleData>
+		<SimpleData name="URL">https://www.cityofsydney.nsw.gov.au/community-centres/king-george-v-kgv-recreation-centre</SimpleData>
+		<SimpleData name="OpeningHours">Monday to Friday: 6am–9pm, Saturday and Sunday: 10am–4pm, Public holidays: Closed.</SimpleData>
+		<SimpleData name="Lat">-33.8597010972066</SimpleData>
+		<SimpleData name="Long">151.206588164723</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.206588164723,-33.8597010972066</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Juanita Nielsen Community Centre</name>
+	<ExtendedData><SchemaData schemaUrl="#Recreation_centres">
+		<SimpleData name="OBJECTID">5</SimpleData>
+		<SimpleData name="Address">31 Nicholson Street</SimpleData>
+		<SimpleData name="Address2">Corner of Nicholson and Dowling Streets</SimpleData>
+		<SimpleData name="Suburb">Woolloomooloo</SimpleData>
+		<SimpleData name="Postcode">2011</SimpleData>
+		<SimpleData name="PhoneNumber">02 8374 6323</SimpleData>
+		<SimpleData name="URL">https://www.cityofsydney.nsw.gov.au/community-centres/juanita-nielsen-community-centre</SimpleData>
+		<SimpleData name="OpeningHours">Monday and Wednesday: 6am–8pm, Tuesday: 9am–8pm, Thursday: 9am–8pm, Friday: 6am–6pm, Saturday: 10am–4pm, Sunday and public holidays: Closed.</SimpleData>
+		<SimpleData name="Lat">-33.8702759096478</SimpleData>
+		<SimpleData name="Long">151.221136568611</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.221136568611,-33.8702759096478</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Perry Park Recreational Centre</name>
+	<ExtendedData><SchemaData schemaUrl="#Recreation_centres">
+		<SimpleData name="OBJECTID">6</SimpleData>
+		<SimpleData name="Address">1B Maddox Street</SimpleData>
+		<SimpleData name="Suburb">Alexandria</SimpleData>
+		<SimpleData name="Postcode">2015</SimpleData>
+		<SimpleData name="PhoneNumber">02 9288 5651</SimpleData>
+		<SimpleData name="URL">https://www.cityofsydney.nsw.gov.au/community-centres/perry-park-recreation-centre</SimpleData>
+		<SimpleData name="Lat">-33.907591591531</SimpleData>
+		<SimpleData name="Long">151.195988999209</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.195988999209,-33.907591591531</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

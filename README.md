@@ -1,0 +1,1 @@
+Jupyter notebook written in Python and PostgreSQL that analyses the liveability of Sydney's suburbs.
